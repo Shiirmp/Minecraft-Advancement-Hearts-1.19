@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": "Keeps score of how many advancements players have made"
+  }
+}
